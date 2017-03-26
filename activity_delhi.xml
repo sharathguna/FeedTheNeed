@@ -1,0 +1,81 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:fillViewport="false">
+
+    <LinearLayout
+        android:background="@drawable/delhi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            android:textColor="#000000"
+            android:id="@+id/textView191"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:text="Delhi-NCR
+
+Delhi Foodbanking Network
+
+With the support of companies and individuals, Delhi-NCR Foodbank serves nutritional meals across 30 feeding centers to vulnerable segments of society. You can donate or help out at the nearest Institutional Feeding Program or start a new Institutional Feeding Program in your neighbourhood.
+
+D82/A, Nangal Devat Village, Vasant Kunj, Behind Spinal Injuries Hospital, New Delhi 110070
+
+011-6599 2692, 098100 07524
+
+support@delhifoodbanking.org
+
+delhifoodbanking.org"
+
+
+            />
+
+        <TextView
+            android:id="@+id/textView30"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="
+
+
+
+
+
+
+
+            "
+
+
+            />
+
+        <TextView
+            android:id="@+id/textView21"
+            android:textSize="18dp"
+            android:textColor="#000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Delhi-NCR      Mumbai
+
+Feeding India
+
+They access excess cooked food from restaurants and caterers in order to feed it to hungry kids and adults. Meet them at Raahgiri, Connaught Place every Sunday.
+
+Greater Kailash Part-1, Near Moolchand Metro Station, Delhi 110048
+
+Ankit Kawatra
+
+Delhi-NCR: 098711 78810, Mumbai: 090150 26026
+
+feedingindia2025@gmail.com
+
+feedingindia.net"
+            />
+
+    </LinearLayout>
+</ScrollView>

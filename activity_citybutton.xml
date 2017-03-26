@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/donate"
+
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Button
+        android:id="@+id/ban"
+        android:layout_width="188dp"
+        android:layout_height="wrap_content"
+        android:layout_x="190px"
+        android:layout_y="159px"
+        android:text="Bangalore"
+
+        android:textSize="15dp"
+        android:textColor="#99c184"
+        android:background="#ece8de"
+        />
+    <Button
+        android:id="@+id/mum"
+        android:layout_width="188dp"
+        android:layout_height="wrap_content"
+        android:layout_x="190px"
+        android:layout_y="300px"
+        android:text="Mumbai"
+        android:textColor="#99c184"
+        android:background="#ece8de"
+        android:textSize="15dp"
+        />
+    <Button
+        android:id="@+id/del"
+        android:layout_width="188dp"
+        android:layout_height="wrap_content"
+        android:layout_x="190px"
+        android:layout_y="450px"
+        android:text="Delhi"
+        android:textColor="#99c184"
+        android:background="#ece8de"
+        android:textSize="15dp"
+
+        />
+    <Button
+        android:id="@+id/kol"
+        android:layout_width="188dp"
+        android:layout_height="wrap_content"
+        android:layout_x="190px"
+        android:layout_y="600px"
+        android:text="Kolkatta"
+        android:textColor="#99c184"
+        android:background="#ece8de"
+        android:textSize="15dp"
+
+        />
+    <Button
+        android:id="@+id/hyd"
+        android:layout_width="188dp"
+        android:layout_height="wrap_content"
+        android:layout_x="190px"
+        android:layout_y="750px"
+        android:text="Hyderabad"
+        android:textColor="#99c184"
+        android:background="#ece8de"
+        android:textSize="15dp"
+
+        />
+
+
+    <Button
+        android:id="@+id/che"
+        android:layout_width="188dp"
+        android:layout_height="wrap_content"
+        android:layout_x="190px"
+        android:layout_y="900px"
+        android:textColor="#99c184"
+        android:background="#ece8de"
+        android:text="Chennai"
+        android:textSize="15dp"
+
+        />
+</AbsoluteLayout>

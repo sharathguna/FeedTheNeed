@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/city1"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:layout_width="188dp"
+        android:layout_height="wrap_content"
+        android:text="Choose Your City"
+        android:textColor="#7b735f"
+        android:textSize="15dp"
+        android:background="#FFFFFF"
+        android:layout_x="97dp"
+        android:layout_y="196dp"
+        android:id="@+id/button3" />
+</AbsoluteLayout>
